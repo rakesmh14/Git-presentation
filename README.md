@@ -1,2 +1,2 @@
 # Git-presentation
-I have attatched presentation slide fro git. Hope it will be usefull for beginners.
+I have attatched presentation slide for git. Hope it will be usefull for beginners.
